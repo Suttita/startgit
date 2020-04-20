@@ -1,0 +1,2 @@
+# startgit
+Trial add file
